@@ -22,6 +22,9 @@ Here's some example code demonstrating how this code is used:
 >>> coin.value()
 1141
 
+Looks awesome doesn't it?
+
+
 Contribute
 ----------
 
